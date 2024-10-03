@@ -36,6 +36,6 @@ To install the required libraries, run:
 ```bash
 pip install numpy pandas tensorflow keras opencv-python matplotlib seaborn tqdm
 
-## Conclusion
-By utilizing GANs, this project seeks to enhance the dataset for fashion image classification, leading to improved model performance and more accurate predictions.
+## Conclusions
+This project demonstrates how GANs can effectively generate fashion images that mimic real images from the dataset. The results showcase the potential of GANs in the fashion industry, especially in areas like virtual try-ons and fashion recommendations. Future work could explore improving image quality through advanced GAN architectures or integrating the GAN with a recommendation engine to enhance user experience in fashion selection.
 
