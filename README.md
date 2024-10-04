@@ -30,6 +30,6 @@ Generative Adversarial Networks consist of two neural networks, a Generator and 
 - `matplotlib`
 - `seaborn`
 - `tqdm`
-- 
+
 ## Conclusions
 This project demonstrates how GANs can effectively generate fashion images that mimic real images from the dataset. The results showcase the potential of GANs in the fashion industry, especially in areas like virtual try-ons and fashion recommendations. Future work could explore improving image quality through advanced GAN architectures or integrating the GAN with a recommendation engine to enhance user experience in fashion selection.
