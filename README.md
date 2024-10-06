@@ -48,7 +48,6 @@ This project implements a **Generative Adversarial Network (GAN)** to generate f
 Install the following libraries to run the project:
 
 - `NumPy`
-- `Pandas`
 - `OpenCV`
 - `TensorFlow`
 - `Keras`
