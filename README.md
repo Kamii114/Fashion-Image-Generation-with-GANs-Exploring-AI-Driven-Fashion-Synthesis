@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project implements a **Generative Adversarial Network (GAN)** to generate fashion images from a custom dataset sourced from Polyvore.The Dataset can be accessed [here](https://github.com/AemikaChow/AiDLab-fAshIon-Data/blob/main/Datasets/cleaned-maryland.md). The primary goal is to explore how GANs can create realistic images that may assist in fashion recommendations.
+This project implements a **Generative Adversarial Network (GAN)** to generate fashion images from a custom dataset sourced from Polyvore. The Dataset can be accessed [here](https://github.com/AemikaChow/AiDLab-fAshIon-Data/blob/main/Datasets/cleaned-maryland.md). The primary goal is to explore how GANs can create realistic images that may assist in fashion recommendations.
 
 ## Authors
 - **Sajjad Saed**
